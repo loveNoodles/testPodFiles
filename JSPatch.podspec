@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'JSPatch'
-s.version      = '1.0.6'
+s.version      = '1.0.7'
 s.summary      = 'This is just a testFiles'
 s.homepage     = 'https://github.com/loveNoodles/testPodFiles'
 s.license      = 'MIT'
