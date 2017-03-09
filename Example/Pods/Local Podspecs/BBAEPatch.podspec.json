@@ -1,0 +1,22 @@
+{
+  "name": "BBAEPatch",
+  "version": "0.1.0",
+  "summary": "A short description of BBAEPatch.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/loveNoodles/BBAEPatch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "loveNoodles": "guangkai.zhang@jimubox.com"
+  },
+  "source": {
+    "git": "https://github.com/loveNoodles/BBAEPatch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BBAEPatch/Classes/**/*"
+}
