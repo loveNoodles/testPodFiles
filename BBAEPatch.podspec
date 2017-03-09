@@ -10,15 +10,15 @@ s.source       = {:git => 'https://github.com/loveNoodles/testPodFiles.git', :ta
 s.requires_arc = true
 
 s.subspec 'Patch' do |patch|
-  patch.source_files = 'BBAEPatch/Classes/patch/*'
+  patch.source_files = 'BBAEPatch/patch/*'
 end
 
 s.subspec 'Service' do |service|
-  service.source_files = 'BBAEPatch/Classes/service/*'
+  service.source_files = 'BBAEPatch/service/*'
 end
 
 s.subspec 'Foundation' do |foundation|
-  foundation.source_files = 'BBAEPatch/Classes/foundation/*'
+  foundation.source_files = 'BBAEPatch/foundation/*'
 end
 
 end
