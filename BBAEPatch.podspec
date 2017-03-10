@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = 'BBAEPatch'
-s.version      = '1.0.1'
+s.version      = '1.0.2'
 s.summary      = 'This is just a testFiles'
 s.homepage     = 'https://github.com/loveNoodles/testPodFiles'
 s.license      = 'MIT'
@@ -22,3 +22,4 @@ s.subspec 'Foundation' do |foundation|
 end
 
 end
+
