@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name         = 'Foundation'
+s.name         = 'foundationn'
 s.version      = '1.0.0'
 s.summary      = 'This is just a testFilesssss'
 s.homepage     = 'https://github.com/loveNoodles/testPodFiles'
